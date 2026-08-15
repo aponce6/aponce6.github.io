@@ -8,7 +8,7 @@ permalink: /research/
 
 **Downstream Waterbird Communities and Clean Water Act Grants**
 
-[Draft (Coming Soon!)](/assets/papers/birds_and_water_draft.pdf) · [Slides](/assets/papers/birds_and_water_slides.pdf)
+[Draft (Coming Soon!)](/assets/papers/birds_and_water_draft.pdf) · [Slides (Coming Soon)](/assets/papers/birds_and_water_slides.pdf)
 
 A short abstract, two or three sentences.
 
