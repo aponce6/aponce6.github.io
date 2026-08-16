@@ -2,6 +2,7 @@
 layout: about
 title: Home
 cover: true
+image: /assets/img/roadrunner.jpeg
 accent_image: /assets/img/sequoia_natl.jpg
 ---
 
