@@ -9,7 +9,7 @@ accent_image: /assets/img/morro_rock.jpg
 
 **Policy Spillovers to Biodiversity: The Impact of Clean Water Act Investments on Bird Diversity and Abundance [Job Market Paper]**
 
-[Draft (Coming Soon!)](/assets/papers/birds_and_water_draft.pdf) ; [Current Slides](/assets/papers/birds_and_water_slides.pdf)
+[Draft (Coming Soon!)](/assets/papers/birds_and_water_draft.pdf) &emsp; [Current Slides](/assets/papers/birds_and_water_slides.pdf)
 
 <u>Abstract:<u>
 
