@@ -12,3 +12,14 @@
     margin: 1rem 0;
   }
 }
+
+// Sidebar tagline: heavier and slightly tighter, so it reads over a busy image
+.sidebar-about > p {
+  font-weight: 800;
+}
+
+// Larger avatars (theme default is 7rem)
+.avatar {
+  width: 9rem;
+  height: 9rem;
+}

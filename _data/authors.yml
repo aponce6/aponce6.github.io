@@ -2,14 +2,14 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              John Doe
-  email:             <mail@domain.tld>
+  name:              Anthony Ponce
+  email:             ap795@cornell.edu
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   # Open `_data/authors.yml` to edit this text.
   about:             |
-    My research agenda is built around questions of the ecological impacts from different environemental policy actions. I am particularly interested in how quality of natural resources and diverse species - valued for conservation efforts and human recreation - respond to environmental change induced by infrastructure investments and legislation. Through my research, I aim to better understand these ecosystem responses, as well as how these responses can inform conservation strategies and infrastructure planning.
+    My research agenda is built around questions of the ecological impacts from different environemental policy actions. I am particularly interested in how quality of natural resources and diverse species - valued for conservation efforts and human recreation - respond to environmental change induced by infrastructure investments and legislation. Using quantitative methods from causal inference and rich ecological and landuse data, I aim to better understand how these induced ecosystem responses can inform conservation strategies and infrastructure planning.
 
   # This photo will be used in the about section
   picture:
@@ -26,7 +26,7 @@ author1:
   social:
     # twitter:         <username>
     github:          aponce6
-    # email:           <mail@domain.tld>
+    email:           ap795@cornell.edu
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -55,7 +55,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        anthony-ponce-3035b613a
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
