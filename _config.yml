@@ -38,7 +38,7 @@ keywords:              []
 # image is used for the `og:image` meta tag, which is used by social media platforms when linking to your site.
 logo:                  /assets/img/headshot.jpg
 
-image:                 /assets/img/headshot/roadrunner.jpeg
+image:                 /assets/img/roadrunner.jpeg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
