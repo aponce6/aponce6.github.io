@@ -101,7 +101,7 @@ accent_color:          rgb(159,173,159)
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(179,27,27)
+theme_color:           rgb(189,177,197)
 
 # IMPORTANT:
 # As of Hydejack 9.2, Google Fonts are turned off by default due to a stronger focus on privacy.
