@@ -9,15 +9,18 @@ accent_image: /assets/img/morro_rock.jpg
 
 **Policy Spillovers to Biodiversity: The Impact of Clean Water Act Investments on Bird Diversity and Abundance [Job Market Paper]**
 
-[Draft (Coming Soon!)](/assets/papers/birds_and_water_draft.pdf) &emsp; [Current Slides](/assets/papers/birds_and_water_slides.pdf)
+[Current Version](/assets/papers/birds_and_water_draft.pdf) &emsp; [Current Slides](/assets/papers/birds_and_water_slides.pdf)
 
 <u>Abstract:<u>
 
-Did the Clean Water Act’s largest spending program- the Title II grants that financed municipal wastewater treatment- produce ecological co-benefits for birds, a category of return that its extensive cost-benefit literature has left almost entirely unquantified? This project tests for them directly, pair ing a century-long, continent-wide citizen-science census- the Christmas Bird Count- with grant records from EPA’s Grants Information and Control System, plant-level engineering attributes from the Clean Watersheds Needs Survey, and the National Hydrography Dataset Plus river network. I study two outcomes. The first is diversity: the richness and evenness of the assemblage conditional on presence, measured with bias-corrected Hill numbers, the scale-invariant “effective number of species” family. The second is abundance: how many birds are counted, modeled directly as a count process by Poisson pseudo-maximum-likelihood, which retains the many zero cells. I leverage the quasi-experimental framework of grant roll-out in a staggered, continuous treatment setting, comparing Christmas Bird Count sites (circles) exposed to upstream grant-funded treatment against not-yet-exposed and never-exposed circles, with a flow-share dose that weights each plant by its discharge relative to the receiving stream. Three diagnostic findings stand out. First, the identifying variation is quasi-exogenous: 80–87% of the cross-circle variationin treated flow-share is set by hydrological network geometry rather than by where grants were targeted, so which circles are treated- and how intensely- is driven by rivers, not by policy selection. Second, the most natural confound is ruled out: observation-effort and extensive-margin placebos show no break at grant commissioning, so grant-driven changes in who counts birds do not masquerade as changes in the birds themselves. Third, a diagnostic split by guild locates the response exactly where the dissolved-oxygen-to-prey-base mechanism predicts and a landbird placebo does not: the abundance of water dependent guilds- waterbirds and waterfowl- rises sharply and significantly in grant-exposed circles while the landbird placebo shows no change. These insights are informative for how water-quality investments are appraised and targeted, and the ecosystem measurements they require are themselves a template for credible program evaluation
+North America’s birds have declined by 29% since 1970, yet few studies causally identify whether environmental policy slows such losses. This paper asks how federal investment in public infrastructure affects biodiversity, using the wastewater treatment plant construction projects commissioned through the Clean Water Act’s construction grants program. Leveraging the plants’ staggered commissioning from 1967 to 1999 and the Audubon Christmas Bird Count in an event-study difference-in-differences design, I find that grant-funded commissioning raised the number of water-linked bird species recorded downstream of grant-receiving plants by about 5%, roughly 1 more species per survey. The number of water-linked birds rose about 14%, roughly 830 more birds per survey, after filtering extreme count values. Compared with a counterfactual without the grants, this amounts to about 3% more water-linked species from 1967 to 2024, about 870 more species records across all count sites each winter. However, survey sites receiving more of a plant’s treated effluent tied to grant-funded commissioning, relative to the river’s flow, showed no greater gains than sites receiving less. These estimates suggest that federal environmental investment reaches biodiversity, which the Act’s benefit-cost assessments have so far left out.
 
 **Benefits of Conservation Easements to Biodiversity: Evidence from Wetland Birds.**
 
 *** With [Terry Zhang](https://www.linkedin.com/in/tieyue-z-84a248148/) & [Wendong Zhang](https://wendongzhang.weebly.com/) ***
+
+
+[Current Version](https://ageconsearch.umn.edu/record/360754?ln=en) &emsp; [Current Slides](/assets/papers/wetlands_and_birds_slides.pdf)
 
 <u>Abstract:<u>
 
@@ -26,6 +29,8 @@ By 2019 wetlands covered just 116.4 million acres, roughly 6% of U.S. land. Yet,
 **Evaluating State Policies Supporting Conservation in Agriculture: Impacts on Water Quality in Minnesota.**
 
 *** With [Catherine L. Kling](https://business.cornell.edu/profiles/clk228/) & [M. Mainul Hoque](https://scholar.google.com/citations?user=WZ28mrIAAAAJ&hl=en) ***
+
+[Avaliable Upon Request]
 
 <u>Abstract:<u>
 
