@@ -7,9 +7,9 @@ accent_image: /assets/img/morro_rock.jpg
 
 ## Working Papers
 
-**Policy Spillovers to Biodiversity: The Impact of Clean Water Act Investments on Bird Diversity and Abundance [Job Market Paper]**
+**Policy Spillovers to Biodiversity: The Impact of Clean Water Act Investments on Birds [Job Market Paper]**
 
-[Current Version](/assets/papers/birds_and_water_draft.pdf) &emsp; [Current Slides](/assets/papers/birds_and_water_slides.pdf)
+[Current Version](/assets/papers/birds_and_cwa.pdf) &emsp; [Current Slides](/assets/papers/birds_and_cwa_slides.pdf)
 
 <u>Abstract:<u>
 
@@ -20,7 +20,7 @@ North America’s birds have declined by 29% since 1970, yet few studies causall
 *** With [Terry Zhang](https://www.linkedin.com/in/tieyue-z-84a248148/) & [Wendong Zhang](https://wendongzhang.weebly.com/) ***
 
 
-[Current Version](https://ageconsearch.umn.edu/record/360754?ln=en) &emsp; [Current Slides](/assets/papers/wetlands_and_birds_slides.pdf)
+[Current Version](https://ageconsearch.umn.edu/record/360754?ln=en) &emsp; [Current Slides](/assets/papers/easements_and_birds_slides.pdf)
 
 <u>Abstract:<u>
 
